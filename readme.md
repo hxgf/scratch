@@ -13,12 +13,15 @@ blank slate to make it a little easier to start building a static web site for a
 - [images/blank.gif](https://github.com/hxgf/scratch/blob/master/images/blank.gif) - 1x1 transparent .gif
 
 ### plus your choice of utility libraries:
+CSS
 - [tachyons CSS (4.12.0)](https://tachyons.io/) (default)
 - [tailwind JIT via CDN](https://tailwindcss.com/) (alt)
 
+JS
 - [jquery (3.6.0)](https://jquery.com/) (default)
-- [alpine.js (2.5.0)](https://github.com/alpinejs/alpine) (alt)
+- [alpine.js (latest) via CDN](https://alpinejs.dev/) (alt)
 
+SPEED INCREASE
 - [instant.page (5.1.0)](https://instant.page/) (default)
 - [turbo (latest) via CDN](https://turbo.hotwired.dev/) (alt)
 
