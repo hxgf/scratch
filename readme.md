@@ -12,7 +12,7 @@ A blank slate to make it a little easier to start building a static web site for
 
 - [images/blank.gif](https://github.com/hxgf/scratch/blob/master/images/blank.gif) - 1x1 transparent .gif
 
-### plus your choice of utility libraries:
+### Plus your choice of utility libraries:
 - CSS
   - [tachyons CSS (4.12.0)](https://tachyons.io/) (default)
   - [tailwind JIT via CDN](https://tailwindcss.com/) (alt)
