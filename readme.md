@@ -1,21 +1,23 @@
 # 𓂀
 
-blank slate for making it easier to start building a static web site ... from scratch
+blank slate to make it a little easier to start building a static web site ... from scratch
 
 ---
 
 ### WHAT'S INCLUDED?
 
+- [index.html](https://github.com/hxgf/scratch/blob/master/index.html) blank page with necessary meta tags all the libraries already linked
+
 - [.htaccess "router"](https://github.com/hxgf/scratch/blob/master/.htaccess) for pretty urls
 
-- [tachyons 4.12.0](https://tachyons.io/) for CSS
-- [instant.page 5.1.0](https://instant.page/) for fast subsequent page loads
+- [tachyons CSS (4.12.0)](https://tachyons.io/)
+- [instant.page (5.1.0)](https://instant.page/)
 
-- [alpine.js 2.5.0](https://github.com/alpinejs/alpine) for JS (optional)
-- [jquery 3.6.0](https://github.com/alpinejs/alpine) for JS (optional)
-- [tailwind JIT via CDN](https://tailwindcss.com/) for CSS (optional)
+- [alpine.js (2.5.0)](https://github.com/alpinejs/alpine) (optional)
+- [jquery (3.6.0)](https://jquery.com/) (optional)
+- [tailwind JIT via CDN](https://tailwindcss.com/) (optional)
 
-- [index.html](https://github.com/hxgf/scratch/blob/master/index.html) blank page with necessary meta tags all the libraries already linked
+
 
 ---
 
@@ -53,5 +55,5 @@ blank slate for making it easier to start building a static web site ... from sc
 
 
 ### LICENSE
-Copyright © 2010-2020 [HXGF](https://hxgf.io).
+Copyright © [HXGF](https://hxgf.io).
 This project is MIT licensed.
