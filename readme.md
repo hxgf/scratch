@@ -1,6 +1,6 @@
 # 𓂀
 
-blank slate to make it a little easier to start building a static web site for apache ... from scratch
+### blank slate to make it a little easier to start building a static web site for apache ... from scratch
 
 ---
 
