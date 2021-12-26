@@ -4,7 +4,7 @@ blank slate to make it a little easier to start building a static web site for a
 
 ---
 
-### WHAT'S INCLUDED?
+## WHAT'S INCLUDED?
 
 - [index.html](https://github.com/hxgf/scratch/blob/master/index.html) - boilerplate page with necessary meta tags and all the libraries already linked
 
@@ -12,18 +12,19 @@ blank slate to make it a little easier to start building a static web site for a
 
 - [images/blank.gif](https://github.com/hxgf/scratch/blob/master/images/blank.gif) - 1x1 transparent .gif
 
-- [tachyons CSS (4.12.0)](https://tachyons.io/)
-- [instant.page (5.1.0)](https://instant.page/)
-
-- [alpine.js (2.5.0)](https://github.com/alpinejs/alpine) (optional)
-- [jquery (3.6.0)](https://jquery.com/) (optional)
+### plus your choice of utility libraries:
+- [tachyons CSS (4.12.0)](https://tachyons.io/) (default)
 - [tailwind JIT via CDN](https://tailwindcss.com/) (optional)
 
+- [jquery (3.6.0)](https://jquery.com/) (default)
+- [alpine.js (2.5.0)](https://github.com/alpinejs/alpine) (optional)
+
+- [instant.page (5.1.0)](https://instant.page/)
 
 
 ---
 
-### ALPINE BOILERPLATE EXAMPLE
+## ALPINE BOILERPLATE EXAMPLE
 - vertically centered text
 - alpine.js x-data function block 
 - pop-up rain spell
@@ -56,6 +57,6 @@ blank slate to make it a little easier to start building a static web site for a
 ---
 
 
-### LICENSE
+## LICENSE
 Copyright © [HXGF](https://hxgf.io).
 This project is MIT licensed.
