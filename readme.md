@@ -14,13 +14,13 @@ blank slate to make it a little easier to start building a static web site for a
 
 ### plus your choice of utility libraries:
 - [tachyons CSS (4.12.0)](https://tachyons.io/) (default)
-- [tailwind JIT via CDN](https://tailwindcss.com/) (optional)
+- [tailwind JIT via CDN](https://tailwindcss.com/) (alt)
 
 - [jquery (3.6.0)](https://jquery.com/) (default)
-- [alpine.js (2.5.0)](https://github.com/alpinejs/alpine) (optional)
+- [alpine.js (2.5.0)](https://github.com/alpinejs/alpine) (alt)
 
-- [instant.page (5.1.0)](https://instant.page/)
-
+- [instant.page (5.1.0)](https://instant.page/) (default)
+- [turbo (7.1.0) via CDN](https://instant.page/) (alt)
 
 ---
 
@@ -53,10 +53,7 @@ blank slate to make it a little easier to start building a static web site for a
 </body>
 ```
 
-
 ---
 
-
 ## LICENSE
-Copyright © [HXGF](https://hxgf.io).
-This project is MIT licensed.
+Copyright © [HXGF](https://hxgf.io). This project is MIT licensed.
