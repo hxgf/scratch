@@ -19,7 +19,7 @@ blank slate to make it a little easier to start building a static web site for a
 - JS
   - [jquery (3.6.0)](https://jquery.com/) (default)
   - [alpine.js (latest) via CDN](https://alpinejs.dev/) (alt)
-- SPEED INCREASE
+- GO FAST
   - [instant.page (5.1.0)](https://instant.page/) (default)
   - [turbo (latest) via CDN](https://turbo.hotwired.dev/) (alt)
 
