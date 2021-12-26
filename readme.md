@@ -1,14 +1,16 @@
 # 𓂀
 
-blank slate to make it a little easier to start building a static web site ... from scratch
+blank slate to make it a little easier to start building a static web site for apache ... from scratch
 
 ---
 
 ### WHAT'S INCLUDED?
 
-- [index.html](https://github.com/hxgf/scratch/blob/master/index.html) blank page with necessary meta tags all the libraries already linked
+- [index.html](https://github.com/hxgf/scratch/blob/master/index.html) - boilerplate page with necessary meta tags and all the libraries already linked
 
-- [.htaccess "router"](https://github.com/hxgf/scratch/blob/master/.htaccess) for pretty urls
+- [.htaccess "router"](https://github.com/hxgf/scratch/blob/master/.htaccess) - pretty urls, force https, gzip static assets (if available)
+
+- [images/blank.gif](https://github.com/hxgf/scratch/blob/master/images/blank.gif) - 1x1 transparent .gif
 
 - [tachyons CSS (4.12.0)](https://tachyons.io/)
 - [instant.page (5.1.0)](https://instant.page/)
@@ -21,7 +23,7 @@ blank slate to make it a little easier to start building a static web site ... f
 
 ---
 
-### EXAMPLE
+### ALPINE BOILERPLATE EXAMPLE
 - vertically centered text
 - alpine.js x-data function block 
 - pop-up rain spell
