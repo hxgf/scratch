@@ -15,7 +15,8 @@ A blank slate to make it a little easier to start building a static web site for
 ### Plus your choice of utility libraries:
 - CSS
   - [tachyons CSS (4.12.0)](https://tachyons.io/) (default)
-  - [tailwind JIT via CDN](https://tailwindcss.com/) (alt)
+  - [tailwind CSS](https://tailwindcss.com/) [(latest via Play CDN)](https://tailwindcss.com/docs/installation/play-cdn) (alt)
+  - [pico CSS (latest) via CDN](https://picocss.com/)
 - JS
   - [jquery (3.6.0)](https://jquery.com/) (default)
   - [alpine.js (latest) via CDN](https://alpinejs.dev/) (alt)
