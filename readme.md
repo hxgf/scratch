@@ -20,7 +20,7 @@ blank slate to make it a little easier to start building a static web site for a
 - [alpine.js (2.5.0)](https://github.com/alpinejs/alpine) (alt)
 
 - [instant.page (5.1.0)](https://instant.page/) (default)
-- [turbo (latest) via CDN](https://instant.page/) (alt)
+- [turbo (latest) via CDN](https://turbo.hotwired.dev/) (alt)
 
 ---
 
