@@ -20,6 +20,7 @@ A blank slate to make it a little easier to start building a static web site for
 - JS
   - [jquery (3.6.0)](https://jquery.com/) (default)
   - [alpine.js (latest) via CDN](https://alpinejs.dev/) (alt)
+  - [mithril.js (latest) via CDN](https://mithril.js.org/) (alt)
 - GO FAST
   - [instant.page (5.1.0)](https://instant.page/) (default)
   - [turbo (latest) via CDN](https://turbo.hotwired.dev/) (alt)
@@ -27,4 +28,4 @@ A blank slate to make it a little easier to start building a static web site for
 ---
 
 ## LICENSE
-Copyright © [HXGF](https://hxgf.io). This project is MIT licensed.
+Copyright © 2021 [HXGF](https://hxgf.io) (Jonathan Youngblood) - This project is MIT licensed.
