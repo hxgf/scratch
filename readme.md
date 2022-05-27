@@ -14,18 +14,19 @@ A blank slate to make it a little easier to start building a static web site for
 
 ### Plus your choice of utility libraries:
 - CSS
-  - [tachyons CSS (4.12.0)](https://tachyons.io/) (default)
-  - [tailwind CSS](https://tailwindcss.com/) [(latest via Play CDN)](https://tailwindcss.com/docs/installation/play-cdn) (alt)
-  - [pico CSS (latest) via CDN](https://picocss.com/)
+  - [Tachyons CSS (4.12.0)](https://tachyons.io/) (default)
+  - [Tailwind CSS](https://tailwindcss.com/) [(latest via Play CDN)](https://tailwindcss.com/docs/installation/play-cdn) (alt)
+  - [Pico CSS (latest) via CDN](https://picocss.com/)
 - JS
-  - [jquery (3.6.0)](https://jquery.com/) (default)
-  - [alpine.js (latest) via CDN](https://alpinejs.dev/) (alt)
-  - [mithril.js (latest) via CDN](https://mithril.js.org/) (alt)
-- GO FAST
-  - [instant.page (5.1.0)](https://instant.page/) (default)
-  - [turbo (latest) via CDN](https://turbo.hotwired.dev/) (alt)
+  - [jQuery (3.6.0)](https://jquery.com/) (default)
+  - [Alpine.js (latest) via CDN](https://alpinejs.dev/) (alt)
+  - [Mithril.js (latest) via CDN](https://mithril.js.org/) (alt)
+  - [HTMX (1.7.0) via CDN](https://mithril.js.org/) (alt)
+- JS Preloaders
+  - [Instant.Page (5.1.0)](https://instant.page/) (default)
+  - [Turbo (latest) via CDN](https://turbo.hotwired.dev/) (alt)
 
 ---
 
 ## LICENSE
-Copyright © 2021 [HXGF](https://hxgf.io) (Jonathan Youngblood) - This project is MIT licensed.
+Copyright © [HXGF](https://hxgf.io) (Jonathan Youngblood) - This project is MIT licensed.
