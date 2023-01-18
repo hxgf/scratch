@@ -12,19 +12,19 @@ A blank slate to make it a little easier to start building a static web site for
 
 - [images/blank.gif](https://github.com/hxgf/scratch/blob/master/images/blank.gif) - 1x1 transparent .gif
 
-### Plus your choice of utility libraries:
+### Plus your choice of utility libraries (via CDN)
 - CSS
-  - [Tachyons CSS (4.12.0)](https://tachyons.io/) (default)
-  - [Tailwind CSS](https://tailwindcss.com/) [(latest via Play CDN)](https://tailwindcss.com/docs/installation/play-cdn) (alt)
-  - [Pico CSS (latest) via CDN](https://picocss.com/) (alt)
+  - [Tachyons CSS](https://tachyons.io/) (default)
+  - [Tailwind CSS](https://tailwindcss.com/)
+  - [Pico CSS](https://picocss.com/)
 - JS
-  - [jQuery (3.6.0)](https://jquery.com/) (default)
-  - [Alpine.js (latest) via CDN](https://alpinejs.dev/) (alt)
-  - [Mithril.js (latest) via CDN](https://mithril.js.org/) (alt)
-  - [HTMX (1.7.0) via CDN](https://mithril.js.org/) (alt)
+  - [jQuery](https://jquery.com/)
+  - [Alpine.js](https://alpinejs.dev/)
+  - [Mithril.js](https://mithril.js.org/)
+  - [HTMX](https://htmx.org/)
 - JS Preloaders
-  - [Instant.Page (5.1.0)](https://instant.page/) (default)
-  - [Turbo (latest) via CDN](https://turbo.hotwired.dev/) (alt)
+  - [Instant.Page](https://instant.page/)
+  - [Turbo](https://turbo.hotwired.dev/)
 
 ---
 
