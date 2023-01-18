@@ -15,12 +15,13 @@ A blank slate to make it a little easier to start building a static web site for
 ### Plus your choice of utility libraries (via CDN)
 - CSS
   - [Tachyons CSS](https://tachyons.io/) (default)
+  - [Bootstrap](https://getbootstrap.com/)
   - [Tailwind CSS](https://tailwindcss.com/)
   - [Pico CSS](https://picocss.com/)
 - JS
   - [jQuery](https://jquery.com/)
+  - [Bootstrap](https://getbootstrap.com/)
   - [Alpine.js](https://alpinejs.dev/)
-  - [Mithril.js](https://mithril.js.org/)
   - [HTMX](https://htmx.org/)
 - JS Preloaders
   - [Instant.Page](https://instant.page/)
